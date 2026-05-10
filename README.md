@@ -2,9 +2,9 @@
 
 # RapidRail
 
-<div align="center"><img src="slides/slide-1.png" alt="RapidRail" width="900"/></div>
 
 **A Modernized Transaction Processing System for the North-South Commuter Railway toward Sustainable Urban Mobility**
+<div align="center"><img src="slides/slide-1.png" alt="RapidRail" width="900"/></div>
 
 [![Platform](https://img.shields.io/badge/Platform-Desktop%20%7C%20Kiosk-blue?style=flat-square)](#)
 [![Version](https://img.shields.io/badge/Version-1.0.0-00B4FF?style=flat-square)](#)
