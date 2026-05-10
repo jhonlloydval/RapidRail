@@ -56,6 +56,9 @@ Metro Manila is one of the most congested cities in the world. The numbers paint
 - Public commuters lose **117 hours (4 days and 21 hours)** per year to traffic
 - The Philippines ranks **60th out of 65 economies** in Urban Mobility Readiness — 5th worst globally, and last in Asia Pacific
 
+
+<div align="center"><img src="slides/slide-6.png" alt="JICA study" width="900"/></div>
+
 A JICA study estimates that if no effective intervention is made, the cost of traffic congestion could balloon from **₱3.5 billion/day to ₱5.4 billion/day by 2035** — or **₱1.97 trillion per year**.
 
 ---
