@@ -2,7 +2,7 @@
 
 # RapidRail
 
-<div align="center"><img src="slides/slide1.png" alt="RapidRails" width="900"/></div>
+<div align="center"><img src="slides/slide-1.png" alt="RapidRail" width="900"/></div>
 
 **A Modernized Transaction Processing System for the North-South Commuter Railway toward Sustainable Urban Mobility**
 
@@ -44,7 +44,7 @@ Manuel S. Enverga University Foundation — 2nd Year Computer Science
 
 ## The Problem
 
-<div align="center"><img src="slides/slide2.png" alt="Traffic Congestion Stats" width="900"/></div>
+<div align="center"><img src="slides/slide-2.png" alt="Traffic Congestion Stats" width="900"/></div>
 
 Metro Manila is one of the most congested cities in the world. The numbers paint a grim picture:
 
@@ -62,7 +62,7 @@ A JICA study estimates that if no effective intervention is made, the cost of tr
 
 ## What is RapidRail?
 
-<div align="center"><img src="slides/slide11.png" alt="RapidRail Objectives" width="900"/></div>
+<div align="center"><img src="slides/slide-4.png" alt="RapidRail Objectives" width="900"/></div>
 
 RapidRail is a modernized transaction processing system designed for the **North-South Commuter Railway (NSCR)** — the Philippines' largest railway project connecting Clark, Pampanga to Calamba, Laguna across **147 km, 35 stations, and 58 trains**.
 
@@ -189,7 +189,7 @@ RapidRail is built on all four core Object-Oriented Programming principles:
 
 ## SDG Alignment
 
-<div align="center"><img src="slides/slide10.png" alt="SDG Alignment" width="900"/></div>
+<div align="center"><img src="slides/slide-3.png" alt="SDG Alignment" width="900"/></div>
 
 | SDG | Goal | How RapidRail Contributes |
 |---|---|---|
@@ -201,7 +201,7 @@ RapidRail is built on all four core Object-Oriented Programming principles:
 
 ## Meet the Team
 
-<div align="center"><img src="slides/slide22.png" alt="Team LOCO-PILOT" width="900"/></div>
+<div align="center"><img src="slides/slide-5.png" alt="Team LOCO-PILOT" width="900"/></div>
 
 **Team LOCO-PILOT** — 2nd Year Computer Science Students
 Manuel S. Enverga University Foundation
