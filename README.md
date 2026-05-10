@@ -36,33 +36,7 @@ Manuel S. Enverga University Foundation — 2nd Year Computer Science
 
 ## Pitch Deck
 
-> Replace each placeholder below with the actual exported PNG from the presentation.
-> File names match the slide number (e.g. `slides/slide1.png`).
-
-<div align="center"><img src="slides/slide1.png" alt="Slide 1 - Title" width="900"/></div>
-<div align="center"><img src="slides/slide2.png" alt="Slide 2 - Traffic Problem" width="900"/></div>
-<div align="center"><img src="slides/slide3.png" alt="Slide 3 - Urban Mobility Stats" width="900"/></div>
-<div align="center"><img src="slides/slide4.png" alt="Slide 4 - Economic Impact" width="900"/></div>
-<div align="center"><img src="slides/slide5.png" alt="Slide 5 - Rail Transit Development" width="900"/></div>
-<div align="center"><img src="slides/slide6.png" alt="Slide 6 - NSCR Overview" width="900"/></div>
-<div align="center"><img src="slides/slide7.png" alt="Slide 7 - User Persona: Sid" width="900"/></div>
-<div align="center"><img src="slides/slide8.png" alt="Slide 8 - User Persona: Mark" width="900"/></div>
-<div align="center"><img src="slides/slide9.png" alt="Slide 9 - Transaction Processing Problem" width="900"/></div>
-<div align="center"><img src="slides/slide10.png" alt="Slide 10 - RapidRail + SDGs" width="900"/></div>
-<div align="center"><img src="slides/slide11.png" alt="Slide 11 - App Objectives" width="900"/></div>
-<div align="center"><img src="slides/slide12.png" alt="Slide 12 - User Account System" width="900"/></div>
-<div align="center"><img src="slides/slide13.png" alt="Slide 13 - Train Type Selection" width="900"/></div>
-<div align="center"><img src="slides/slide14.png" alt="Slide 14 - Standard Booking" width="900"/></div>
-<div align="center"><img src="slides/slide15.png" alt="Slide 15 - Express Booking" width="900"/></div>
-<div align="center"><img src="slides/slide16.png" alt="Slide 16 - Transaction Menu" width="900"/></div>
-<div align="center"><img src="slides/slide17.png" alt="Slide 17 - Receipt Details" width="900"/></div>
-<div align="center"><img src="slides/slide18.png" alt="Slide 18 - History & Transactions" width="900"/></div>
-<div align="center"><img src="slides/slide19.png" alt="Slide 19 - Pricing & Payments" width="900"/></div>
-<div align="center"><img src="slides/slide20.png" alt="Slide 20 - Kiosk Verification" width="900"/></div>
-<div align="center"><img src="slides/slide21.png" alt="Slide 21 - OOP Principles" width="900"/></div>
-<div align="center"><img src="slides/slide22.png" alt="Slide 22 - Meet the Team" width="900"/></div>
-<div align="center"><img src="slides/slide23.png" alt="Slide 23 - References" width="900"/></div>
-<div align="center"><img src="slides/slide24.png" alt="Slide 24 - Closing" width="900"/></div>
+[View RapidRail Pitch Deck (PDF)](RapidRail_PitchDeck.pdf)
 
 ---
 
