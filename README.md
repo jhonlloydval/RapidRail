@@ -23,16 +23,15 @@ Manuel S. Enverga University Foundation — 2nd Year Computer Science
 
 ## Table of Contents
 
-1. [Pitch Deck](#pitch-deck)
-2. [The Problem](#the-problem)
-3. [What is RapidRail?](#what-is-rapidrail)
-4. [User Personas](#user-personas)
-5. [Core Features](#core-features)
-6. [System Flow](#system-flow)
-7. [OOP Principles](#oop-principles)
-8. [SDG Alignment](#sdg-alignment)
-9. [Meet the Team](#meet-the-team)
-10. [References](#references)
+1. [The Problem](#the-problem)
+2. [What is RapidRail?](#what-is-rapidrail)
+3. [User Personas](#user-personas)
+4. [Core Features](#core-features)
+5. [System Flow](#system-flow)
+6. [OOP Principles](#oop-principles)
+7. [SDG Alignment](#sdg-alignment)
+8. [Meet the Team](#meet-the-team)
+9. [References](#references)
 
 
 ---
