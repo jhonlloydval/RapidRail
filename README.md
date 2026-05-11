@@ -37,8 +37,7 @@ Manuel S. Enverga University Foundation — 2nd Year Computer Science
 ---
 
 ## Pitch Deck
-
-[View RapidRail Pitch Deck (PDF)](RapidRail_PitchDeck.pdf)
+TBA
 
 ---
 
