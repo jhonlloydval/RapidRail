@@ -34,10 +34,6 @@ Manuel S. Enverga University Foundation — 2nd Year Computer Science
 9. [Meet the Team](#meet-the-team)
 10. [References](#references)
 
----
-
-## Pitch Deck
-TBA
 
 ---
 
